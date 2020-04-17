@@ -10,7 +10,8 @@
 //mod structs;
 //mod enums;
 //Test 123
-mod cli;
+//mod cli;
+mod ps1;
 
 fn main() {
     //println!("Hello, world!");
@@ -25,6 +26,7 @@ fn main() {
     //pointers_ref::run();
     //structs::run();
     //enums::run();
-    cli::run();
+    //cli::run();
+    ps1::run();
 
 }
